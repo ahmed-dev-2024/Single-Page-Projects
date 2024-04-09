@@ -1,0 +1,192 @@
+#header {
+    background-color: azure;
+    height: 50px;
+}
+
+.headerBar {
+    background-color: aquamarine;
+    width: 15%;
+    list-style-type: none;
+    position: relative;
+    left: 1100px;
+    top: 1px;
+}
+
+.headerBarline {
+    background-color: blanchedalmond;
+    height: 100px;
+    list-style-image: url("assest/img/photo.png");
+
+    position: relative;
+    top: 50px;
+}
+
+#mainheadbercontainer {
+    background-color: brown;
+    text-align: center;
+    margin: 5px 5px 5px 5px;
+
+
+}
+
+#mainheadnavbarlistwrappar {
+    list-style-type: none;
+    padding: 0%;
+}
+
+.mainheadnavbarlist {
+    color: aqua;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    width: 9%;
+}
+
+.color {
+    color: yellow;
+}
+
+#mainnavbercontainer {
+    background-image: url(assest/img/images22.jpg);
+    background-size: auto;
+    height: 100px;
+    text-align: center;
+    margin: 5px 5px 5px 5px;
+}
+
+.picture {
+    background-image: url("assest/img/images\ \(1\).jpg");
+    background-size: contain;
+    height: 300px;
+    margin: 30px;
+    padding: 30px;
+    text-align: center;
+    color: white;
+    font-size: large;
+
+}
+
+.shiftword {
+    position: relative;
+    left: 300px;
+}
+
+#mainnavbarlist {
+    list-style-type: none;
+    padding: 0%;
+}
+
+.mainnavbarlistwrappar {
+    color: aqua;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    width: 25%;
+    font-size: larger;
+}
+
+.controlfont {
+    font-size: 30px;
+    color: brown;
+    border-radius: 25%;
+}
+
+.pic1 {
+    background-image: url("assest/img/inn.jpg");
+    background-size: contain;
+    width: 700px;
+    height: 500px;
+    text-align: center;
+    color: white;
+
+}
+
+.pic2 {
+    background-image: url("assest/img/download\ \(4\).jpg");
+    background-size: contain;
+    width: 750px;
+    height: 500px;
+    text-align: center;
+    color: white;
+
+}
+
+.pic3 {
+    background-image: url("assest/img/download\ \(3\).jpg");
+    background-size: contain;
+    width: 700px;
+    height: 500px;
+    text-align: center;
+    color: white;
+
+}
+
+.pic4 {
+    background-image: url("assest/img/download\ \(5\).jpg");
+    background-size: contain;
+    width: 750px;
+    height: 500px;
+    text-align: center;
+    color: white;
+}
+
+.move {
+    background-color: darkgrey;
+    position: relative;
+    top: 460px;
+}
+
+#divheard {
+    background-color: bisque;
+    height: 450px;
+}
+
+#divheardform {
+    list-style-type: none;
+    padding: 0%;
+}
+
+.wordandbuttom {
+    color: blue;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    width: 45%;
+}
+
+.centerwords {
+    position: relative;
+    bottom: 100px;
+}
+
+.changecolor {
+    font-size: 35px;
+    color: brown;
+}
+
+#footer {
+    background-color: brown;
+    text-align: center;
+    margin: 5px 5px 5px 5px;
+
+
+}
+
+#mainfooter {
+    list-style-type: none;
+    padding: 0%;
+}
+
+.mainfooterlist {
+    color: aqua;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    width: 20%;
+}
+
+.upword {
+    position: relative;
+    bottom: 140px;
+
+}
